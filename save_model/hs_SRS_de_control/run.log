@@ -1,0 +1,419 @@
+2021-09-24 04:08:25,236 - Model instianted from: se
+2021-09-24 04:08:25,237 - se | {} | iter: 0
+2021-09-24 04:08:38,010 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:08:38,010 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:08:38,010 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:09:21,130 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:09:21,130 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:09:21,130 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:10:03,707 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:10:03,708 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:10:03,708 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:10:46,517 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:10:46,518 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:10:46,518 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:11:28,938 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:11:28,938 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:11:28,938 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:12:11,782 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:12:11,783 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:12:11,783 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:12:54,180 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:12:54,180 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:12:54,180 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:13:36,316 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:13:36,316 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:13:36,317 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:14:19,056 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:14:19,056 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:14:19,056 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:15:01,683 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:15:01,684 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:15:01,684 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:15:44,145 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:15:44,145 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:15:44,145 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:16:26,681 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:16:26,682 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:16:26,682 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:17:08,859 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:17:08,859 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:17:08,859 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:17:51,393 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:17:51,393 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:17:51,393 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:18:34,072 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:18:34,072 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:18:34,072 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:19:16,762 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:19:16,763 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:19:16,763 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:19:59,169 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:19:59,169 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:19:59,169 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:20:41,617 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:20:41,617 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:20:41,617 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:21:24,704 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:21:24,705 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:21:24,705 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:22:07,515 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:22:07,516 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:22:07,516 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:22:50,356 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:22:50,356 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:22:50,356 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:23:33,458 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:23:33,458 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:23:33,458 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:24:15,997 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:24:15,998 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:24:15,998 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:24:59,074 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:24:59,075 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:24:59,075 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:25:41,817 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:25:41,817 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:25:41,817 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:26:24,437 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:26:24,437 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:26:24,437 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:27:07,170 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:27:07,171 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:27:07,171 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:27:49,493 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:27:49,494 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:27:49,494 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:28:32,066 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:28:32,066 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:28:32,066 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:29:15,447 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:29:15,447 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:29:15,448 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:29:58,118 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:29:58,119 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:29:58,119 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:30:40,408 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:30:40,409 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:30:40,409 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:31:23,386 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:31:23,386 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:31:23,386 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:32:06,120 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:32:06,121 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:32:06,121 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:32:49,016 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:32:49,017 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:32:49,017 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:33:31,733 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:33:31,734 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:33:31,734 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:34:14,718 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:34:14,718 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:34:14,718 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:34:57,538 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:34:57,538 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:34:57,538 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:35:40,302 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5]
+2021-09-24 04:35:40,302 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:35:40,303 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:36:24,179 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:36:24,179 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:36:24,179 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:37:07,281 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:37:07,281 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:37:07,281 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:37:50,604 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:37:50,605 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:37:50,605 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:38:33,607 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:38:33,608 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:38:33,608 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:39:16,519 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:39:16,520 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:39:16,520 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:39:59,708 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:39:59,708 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:39:59,708 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:40:42,103 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:40:42,103 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:40:42,104 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:41:25,017 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:41:25,018 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:41:25,018 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:42:07,863 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:42:07,863 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:42:07,863 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:42:50,951 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:42:50,952 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:42:50,952 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:43:33,857 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:43:33,857 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:43:33,857 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:44:17,020 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:44:17,021 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:44:17,021 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:45:00,358 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:45:00,358 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:45:00,358 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:45:43,393 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:45:43,393 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:45:43,393 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:46:26,223 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:46:26,223 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:46:26,223 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:47:09,612 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:47:09,612 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:47:09,612 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:47:52,689 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:47:52,689 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:47:52,689 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:48:35,698 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:48:35,699 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:48:35,699 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:49:18,757 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:49:18,757 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:49:18,757 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:50:00,789 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:50:00,789 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:50:00,789 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:50:43,695 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:50:43,695 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:50:43,695 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:51:26,437 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:51:26,437 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:51:26,437 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:52:09,590 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:52:09,590 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:52:09,590 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:52:52,484 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:52:52,484 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:52:52,484 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:53:35,599 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:53:35,599 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:53:35,599 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:54:18,709 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:54:18,709 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:54:18,709 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:55:01,742 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:55:01,742 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:55:01,742 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:55:45,022 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:55:45,022 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:55:45,022 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:56:28,208 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:56:28,208 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:56:28,208 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:57:11,020 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:57:11,020 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:57:11,020 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:57:54,532 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:57:54,533 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:57:54,533 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:58:37,596 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:58:37,597 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:58:37,597 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 04:59:20,185 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 04:59:20,186 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 04:59:20,186 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:00:03,168 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 05:00:03,168 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:00:03,168 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:00:46,178 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 05:00:46,178 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:00:46,178 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:01:29,153 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 05:01:29,153 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:01:29,153 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:02:12,087 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 05:02:12,088 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:02:12,088 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:02:55,217 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 05:02:55,217 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:02:55,217 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:03:38,310 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 05:03:38,310 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:03:38,310 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:04:21,333 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6]
+2021-09-24 05:04:21,333 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:04:21,333 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:05:04,831 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:05:04,831 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:05:04,831 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:05:48,109 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:05:48,109 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:05:48,109 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:06:31,040 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:06:31,040 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:06:31,040 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:07:13,844 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:07:13,844 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:07:13,844 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:07:56,650 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:07:56,650 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:07:56,650 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:08:39,317 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:08:39,317 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:08:39,317 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:09:22,803 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:09:22,803 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:09:22,803 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:10:05,101 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:10:05,102 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:10:05,102 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:10:48,008 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:10:48,008 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:10:48,008 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:11:32,457 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:11:32,458 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:11:32,458 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:12:15,921 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:12:15,921 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:12:15,921 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:12:59,049 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:12:59,049 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:12:59,049 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:13:41,964 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:13:41,964 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:13:41,964 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:14:25,314 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:14:25,315 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:14:25,315 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:15:07,977 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:15:07,977 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:15:07,977 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:15:52,756 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:15:52,756 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:15:52,756 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:16:37,728 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:16:37,729 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:16:37,729 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:17:20,762 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:17:20,762 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:17:20,763 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:18:04,048 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:18:04,048 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:18:04,048 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:18:47,089 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:18:47,090 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:18:47,090 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:19:31,387 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:19:31,387 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:19:31,387 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:20:14,361 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:20:14,361 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:20:14,361 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:20:57,837 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:20:57,837 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:20:57,837 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:21:40,817 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:21:40,817 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:21:40,817 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:22:23,585 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:22:23,585 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:22:23,585 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:23:07,097 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:23:07,098 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:23:07,098 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:23:49,672 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:23:49,672 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:23:49,673 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:24:32,671 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:24:32,672 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:24:32,672 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:25:15,775 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:25:15,775 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:25:15,776 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:25:59,097 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:25:59,098 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:25:59,098 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:26:42,172 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:26:42,172 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:26:42,172 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:27:25,200 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:27:25,200 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:27:25,200 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:28:08,442 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:28:08,443 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:28:08,443 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:28:51,163 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:28:51,164 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:28:51,164 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:29:34,151 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:29:34,152 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:29:34,152 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:30:17,171 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:30:17,171 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:30:17,171 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:30:59,975 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:30:59,976 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:30:59,976 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:31:43,703 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:31:43,703 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:31:43,703 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:32:27,087 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:32:27,087 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:32:27,087 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:33:10,501 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7]
+2021-09-24 05:33:10,502 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:33:10,502 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:33:54,212 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:33:54,212 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:33:54,213 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:34:37,529 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:34:37,529 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:34:37,530 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:35:21,427 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:35:21,428 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:35:21,428 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:36:05,011 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:36:05,012 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:36:05,012 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:36:48,031 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:36:48,031 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:36:48,031 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:37:30,710 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:37:30,710 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:37:30,710 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:38:13,765 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:38:13,766 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:38:13,766 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:38:56,306 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:38:56,306 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:38:56,306 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:39:39,417 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:39:39,417 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:39:39,417 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:40:22,431 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:40:22,431 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:40:22,431 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:41:05,840 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:41:05,840 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:41:05,840 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:41:48,561 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:41:48,561 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:41:48,561 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:42:31,506 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:42:31,506 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:42:31,507 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:43:15,112 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:43:15,113 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:43:15,113 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:43:58,966 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:43:58,966 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:43:58,966 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:44:42,779 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:44:42,779 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:44:42,779 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:45:26,652 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:45:26,652 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:45:26,652 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:46:09,866 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:46:09,866 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:46:09,866 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:46:52,636 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:46:52,636 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:46:52,636 - model saved to: saved_models/hs_SRS_de/model.p
+2021-09-24 05:47:36,351 - BufferedPatchDataset buffer history: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-09-24 05:47:36,351 - loss log saved to: saved_models/hs_SRS_de/losses.csv
+2021-09-24 05:47:36,351 - model saved to: saved_models/hs_SRS_de/model.p

@@ -1,0 +1,33 @@
+{
+    "batch_size": 4,
+    "bpds_kwargs": {},
+    "buffer_size": 6,
+    "buffer_switch_frequency": 16000,
+    "class_dataset": "TiffDataset",
+    "dataname": "de",
+    "gpu_ids": [
+        0
+    ],
+    "interval_save": 100,
+    "iter_checkpoint": [],
+    "lr": 0.001,
+    "n_iter": 50000,
+    "nn_kwargs": {},
+    "nn_module": "se",
+    "patch_size": [
+        64,
+        64
+    ],
+    "path_dataset_csv": "data/csvs/hs_SRS_de/train.csv",
+    "path_dataset_val_csv": null,
+    "path_run_dir": "saved_models/hs_SRS_de",
+    "seed": null,
+    "shuffle_images": false,
+    "t": 0.88,
+    "transform_signal": [
+        "fnet.transforms.normalize"
+    ],
+    "transform_target": [
+        "fnet.transforms.normalize"
+    ]
+}
