@@ -1,0 +1,9 @@
+path_signal_dataset,path_target_dataset,path_signal,path_target,path_prediction_hs_SRS_snr
+/root/train/Low_SNR/11.tif,/root/train/High_SNR/11.tif,00/signal.tiff,00/target.tiff,00/prediction_hs_SRS_snr.tiff
+/root/train/Low_SNR/23.tif,/root/train/High_SNR/23.tif,01/signal.tiff,01/target.tiff,01/prediction_hs_SRS_snr.tiff
+/root/train/Low_SNR/19.tif,/root/train/High_SNR/19.tif,02/signal.tiff,02/target.tiff,02/prediction_hs_SRS_snr.tiff
+/root/train/Low_SNR/21.tif,/root/train/High_SNR/21.tif,03/signal.tiff,03/target.tiff,03/prediction_hs_SRS_snr.tiff
+/root/train/Low_SNR/8.tif,/root/train/High_SNR/8.tif,04/signal.tiff,04/target.tiff,04/prediction_hs_SRS_snr.tiff
+/root/train/Low_SNR/15.tif,/root/train/High_SNR/15.tif,05/signal.tiff,05/target.tiff,05/prediction_hs_SRS_snr.tiff
+/root/train/Low_SNR/29.tif,/root/train/High_SNR/29.tif,06/signal.tiff,06/target.tiff,06/prediction_hs_SRS_snr.tiff
+/root/train/Low_SNR/39.tif,/root/train/High_SNR/39.tif,07/signal.tiff,07/target.tiff,07/prediction_hs_SRS_snr.tiff
